@@ -1,0 +1,4 @@
+C:\Users\Nolwe\AndroidStudioProjects\Ultra\app\build\intermediates\classes\debug
+C:\Users\Nolwe\AndroidStudioProjects\Ultra\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-9e7b23ba232075698c1ce43f8602f517a928c560.jar
+C:\Users\Nolwe\AndroidStudioProjects\Ultra\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-a57a4b80db39eaa7ad49f2c0ca1e4a4c5c376ca6.jar
+C:\Users\Nolwe\AndroidStudioProjects\Ultra\app\build\intermediates\pre-dexed\debug\classes-978c9bf4b04e4285a6a8b11254cd2a120b5823bf.jar
